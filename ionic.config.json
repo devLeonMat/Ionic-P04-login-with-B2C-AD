@@ -1,0 +1,7 @@
+{
+  "name": "poc-b2c-ionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
